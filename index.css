@@ -197,9 +197,12 @@ article .text-container{
   h2 {
 		font-size: 4vw;
 	}
+  .container-link h2{
+    opacity: 0.8;
+  }
 
 	h1 {
-		font-size: 8vw;
+		font-size: 6vw;
 	}
   h1.txt{
     font-size: 4.5vw !important;
