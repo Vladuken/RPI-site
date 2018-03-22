@@ -199,9 +199,11 @@ article .text-container{
 	}
 
 	h1 {
-		font-size: 7vw;
+		font-size: 8vw;
 	}
-
+  h1.txt{
+    font-size: 4.5vw !important;
+  }
   h1.navbar-header{
     font-size: 4vw;
   }
